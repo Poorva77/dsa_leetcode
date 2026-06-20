@@ -1,23 +1,31 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int low=0,high=0;
-        for(char c:s){
-            if(c=='('){
-                low++;
-                high++;
+        stack<int> open, star;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='('){
+                open.push(i);
             }
-            else if(c==')'){
-                low--;
-                high--;
+            else if(s[i]=='*'){
+                star.push(i);
             }
             else{
-                low--;
-                high++;
+                if(!open.empty()){
+                    open.pop();
+                }
+                else if(!star.empty()){
+                    star.pop();
+                }
+                else{
+                    return false;
+                }
             }
-            if(high<0) return false; // too many ')'
-            if(low<0) low=0; // reset lower bound
         }
-        return low==0;
+        while(!open.empty() && !star.empty()){
+            if(open.top()>star.top()) return false;
+            open.pop();
+            star.pop();
+        }
+        return open.empty();
     }
 };
