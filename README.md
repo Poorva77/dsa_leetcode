@@ -22,6 +22,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
