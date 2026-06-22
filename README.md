@@ -24,6 +24,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Poorva77/dsa_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -44,11 +45,13 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Poorva77/dsa_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Poorva77/dsa_leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
