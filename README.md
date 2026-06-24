@@ -15,6 +15,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
 | ------- |
