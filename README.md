@@ -14,6 +14,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -70,6 +71,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Poorva77/dsa_leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -120,4 +122,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Poorva77/dsa_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
