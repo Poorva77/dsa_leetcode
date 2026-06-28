@@ -15,6 +15,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Poorva77/dsa_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -31,6 +32,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Poorva77/dsa_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Poorva77/dsa_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
