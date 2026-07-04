@@ -141,6 +141,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Poorva77/dsa_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,11 +157,13 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -180,6 +183,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Poorva77/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
