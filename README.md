@@ -14,6 +14,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/Poorva77/dsa_leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Poorva77/dsa_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -59,6 +60,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0053-maximum-subarray](https://github.com/Poorva77/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1301-number-of-paths-with-max-score](https://github.com/Poorva77/dsa_leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Poorva77/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -177,6 +179,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Poorva77/dsa_leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
