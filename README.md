@@ -20,6 +20,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Poorva77/dsa_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poorva77/dsa_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -54,6 +55,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poorva77/dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poorva77/dsa_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -129,6 +131,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Segment Tree
 |  |
