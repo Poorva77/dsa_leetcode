@@ -1,19 +1,15 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        string s= to_string(n);
-        string x;
-        int sum=0;
-        for(int i=0;i<s.size();i++){
-            if(s[i]!='0'){
-                x.push_back(s[i]);
-                sum+=(s[i]-'0');   //Fixed: Subtracted '0' to get actual DIGIT value
-            }
+        //easy way
+        long long x=0;
+        long long sum=0;
+        for(char ch:to_string(n)){
+            if(ch!='0'){
+                x = x*10 + (ch-'0');
+                sum += ch-'0';
+            }       
         }
-        if(x.size()==0){
-            return 0;
-        }
-        long long newX= stoll(x);
-        return newX*sum;
+        return x*sum;
     }
 };
