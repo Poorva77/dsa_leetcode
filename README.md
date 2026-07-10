@@ -25,6 +25,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Poorva77/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -45,6 +46,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Poorva77/dsa_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/Poorva77/dsa_leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Poorva77/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -89,6 +92,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1833-maximum-ice-cream-bars](https://github.com/Poorva77/dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Poorva77/dsa_leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -128,6 +132,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Poorva77/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Recursion
 |  |
@@ -142,6 +147,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -201,12 +207,14 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Poorva77/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
