@@ -6,6 +6,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Poorva77/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Poorva77/dsa_leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Poorva77/dsa_leetcode/tree/master/0053-maximum-subarray) |
@@ -52,6 +53,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Poorva77/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Poorva77/dsa_leetcode/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
@@ -238,4 +240,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Poorva77/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
