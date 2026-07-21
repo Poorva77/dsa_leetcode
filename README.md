@@ -81,6 +81,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poorva77/dsa_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -206,6 +207,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [1291-sequential-digits](https://github.com/Poorva77/dsa_leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
