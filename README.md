@@ -67,6 +67,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Poorva77/dsa_leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Poorva77/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Poorva77/dsa_leetcode/tree/master/0058-length-of-last-word) |
