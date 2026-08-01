@@ -15,6 +15,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
@@ -46,6 +47,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
@@ -115,6 +117,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Poorva77/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/Poorva77/dsa_leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Poorva77/dsa_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -201,6 +204,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -334,4 +338,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Poorva77/dsa_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poorva77/dsa_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
