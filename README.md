@@ -13,6 +13,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
@@ -50,6 +51,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -267,6 +269,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Poorva77/dsa_leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -343,6 +346,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Poorva77/dsa_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Poorva77/dsa_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -385,4 +389,16 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
