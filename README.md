@@ -20,6 +20,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Poorva77/dsa_leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/1140-stone-game-ii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Poorva77/dsa_leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -60,6 +61,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0877-stone-game](https://github.com/Poorva77/dsa_leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/1140-stone-game-ii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/Poorva77/dsa_leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Poorva77/dsa_leetcode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
@@ -355,6 +357,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Poorva77/dsa_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Poorva77/dsa_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -420,4 +423,20 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Poorva77/dsa_leetcode/tree/master/1510-stone-game-iv) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
