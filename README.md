@@ -58,6 +58,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
+| [0415-add-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Poorva77/dsa_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -112,6 +113,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Poorva77/dsa_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0796-rotate-string) |
@@ -380,6 +382,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorva77/dsa_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
