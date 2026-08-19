@@ -107,6 +107,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Poorva77/dsa_leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Poorva77/dsa_leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Poorva77/dsa_leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -250,6 +251,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
@@ -363,6 +365,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -456,4 +459,16 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
