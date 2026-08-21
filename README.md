@@ -339,6 +339,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Poorva77/dsa_leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/Poorva77/dsa_leetcode/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Poorva77/dsa_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
