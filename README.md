@@ -67,6 +67,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorva77/dsa_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/Poorva77/dsa_leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Poorva77/dsa_leetcode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
@@ -479,4 +480,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorva77/dsa_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
