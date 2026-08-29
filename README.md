@@ -286,11 +286,13 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Poorva77/dsa_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorva77/dsa_leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Poorva77/dsa_leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Poorva77/dsa_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorva77/dsa_leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Poorva77/dsa_leetcode/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Poorva77/dsa_leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -299,6 +301,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Poorva77/dsa_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorva77/dsa_leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Poorva77/dsa_leetcode/tree/master/0112-path-sum) |
 ## Enumeration
 |  |
@@ -320,6 +323,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorva77/dsa_leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Poorva77/dsa_leetcode/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Poorva77/dsa_leetcode/tree/master/2685-count-the-number-of-complete-components) |
