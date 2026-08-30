@@ -11,6 +11,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0035-search-insert-position](https://github.com/Poorva77/dsa_leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Poorva77/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Poorva77/dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
@@ -57,6 +58,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Poorva77/dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
@@ -170,6 +172,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Poorva77/dsa_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Poorva77/dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Poorva77/dsa_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
