@@ -20,6 +20,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Poorva77/dsa_leetcode/tree/master/0877-stone-game) |
+| [0997-find-the-town-judge](https://github.com/Poorva77/dsa_leetcode/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/1260-shift-2d-grid) |
@@ -210,6 +211,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
+| [0997-find-the-town-judge](https://github.com/Poorva77/dsa_leetcode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Poorva77/dsa_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poorva77/dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -372,6 +374,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Poorva77/dsa_leetcode/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Poorva77/dsa_leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
