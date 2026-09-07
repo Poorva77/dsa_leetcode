@@ -72,6 +72,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Poorva77/dsa_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Poorva77/dsa_leetcode/tree/master/0877-stone-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/Poorva77/dsa_leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1250-check-if-it-is-a-good-array) |
@@ -524,4 +525,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Poorva77/dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [1033-moving-stones-until-consecutive](https://github.com/Poorva77/dsa_leetcode/tree/master/1033-moving-stones-until-consecutive) |
 <!---LeetCode Topics End-->
