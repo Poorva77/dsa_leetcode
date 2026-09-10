@@ -85,6 +85,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1840-maximum-building-height](https://github.com/Poorva77/dsa_leetcode/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/Poorva77/dsa_leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Poorva77/dsa_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Poorva77/dsa_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -293,6 +294,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/Poorva77/dsa_leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Poorva77/dsa_leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -539,6 +541,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [1025-divisor-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1025-divisor-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/Poorva77/dsa_leetcode/tree/master/1033-moving-stones-until-consecutive) |
+| [2396-strictly-palindromic-number](https://github.com/Poorva77/dsa_leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
