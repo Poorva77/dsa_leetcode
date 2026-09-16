@@ -20,6 +20,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0435-non-overlapping-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Poorva77/dsa_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Poorva77/dsa_leetcode/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Poorva77/dsa_leetcode/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/1140-stone-game-ii) |
@@ -112,6 +113,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Poorva77/dsa_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -175,6 +177,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Poorva77/dsa_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Poorva77/dsa_leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1025-divisor-game) |
@@ -205,6 +208,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Poorva77/dsa_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Poorva77/dsa_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poorva77/dsa_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/1328-break-a-palindrome) |
@@ -554,4 +558,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Poorva77/dsa_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
