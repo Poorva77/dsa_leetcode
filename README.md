@@ -137,6 +137,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0014-longest-common-prefix](https://github.com/Poorva77/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Poorva77/dsa_leetcode/tree/master/0058-length-of-last-word) |
@@ -176,6 +177,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Poorva77/dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Poorva77/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -495,6 +497,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
 |  |
@@ -575,4 +578,5 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
