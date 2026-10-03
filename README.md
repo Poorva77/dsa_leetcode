@@ -579,4 +579,5 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
