@@ -13,7 +13,7 @@ public:
                 if(!open.empty()){
                     open.pop();
                 }
-                else if(!star.empty()){
+                else if(!star.empty()){   // - (*)) case
                     star.pop();
                 }
                 else{
@@ -22,7 +22,7 @@ public:
             }
         }
         while(!open.empty() && !star.empty()){
-            if(open.top()>star.top()) return false;
+            if(open.top()>star.top()) return false;    // - )*
             open.pop();
             star.pop();
         }
