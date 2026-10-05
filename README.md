@@ -149,6 +149,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0434-number-of-segments-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poorva77/dsa_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poorva77/dsa_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -207,6 +208,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Poorva77/dsa_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poorva77/dsa_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poorva77/dsa_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -581,4 +583,5 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0022-generate-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
