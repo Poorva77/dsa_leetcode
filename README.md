@@ -143,6 +143,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0058-length-of-last-word](https://github.com/Poorva77/dsa_leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Poorva77/dsa_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/0415-add-strings) |
@@ -379,6 +380,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Poorva77/dsa_leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Poorva77/dsa_leetcode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/Poorva77/dsa_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Poorva77/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Poorva77/dsa_leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -503,6 +505,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
 |  |
