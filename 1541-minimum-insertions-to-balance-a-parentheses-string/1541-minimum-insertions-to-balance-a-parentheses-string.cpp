@@ -1,47 +1,28 @@
-//my initial thinking - correct code taken from ai
+//TC=0(1)
 class Solution {
 public:
     int minInsertions(string s) {
-        int ans = 0;
-        int open = 0;
-        int close = 0;
-
-        for (char ch : s) {
-            if (ch == '(') {
-                if (close == 1) {
-                    ans++; // Insert one ')' to make "))"
-                    if (open > 0) {
-                        open--; // Matches with an earlier '('
-                    } else {
-                        ans++; // No '(' available, so we also needed to insert a '('
-                    }
-                    close = 0;
-                }
+        int ans=0;
+        int open=0;
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            if(s[i]=='('){
                 open++;
             } 
-            else { // ch == ')'
-                close++;
-                if (close == 2) {
-                    if (open > 0) {
-                        open--;
-                    } else {
-                        ans++; // Need to insert '('
-                    }
-                    close = 0;
+            else{
+                //check if we have a pair '))'
+                if(i+1<n && s[i+1]==')'){
+                    i++; //skip the second ')'
+                } 
+                else ans++; //add ')'
+
+                //when we HAVE '))'
+                if(open>0) open--;
+                else{
+                    ans++; //adds '('
                 }
             }
         }
-
-        // Clean up remaining state after the loop
-        if (close == 1) {
-            ans++; // Need 1 more ')' to complete "))"
-            if (open > 0) {
-                open--;
-            } else {
-                ans++; // Need a '(' to match the "))"
-            }
-        }
-
-        return ans + 2 * open; // Each remaining '(' needs "))" (2 insertions)
+        return ans+2*open;
     }
 };
