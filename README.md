@@ -257,6 +257,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0142-linked-list-cycle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorva77/dsa_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0997-find-the-town-judge](https://github.com/Poorva77/dsa_leetcode/tree/master/0997-find-the-town-judge) |
@@ -322,6 +323,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Poorva77/dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0142-linked-list-cycle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poorva77/dsa_leetcode/tree/master/0283-move-zeroes) |
@@ -572,6 +574,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Poorva77/dsa_leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Poorva77/dsa_leetcode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorva77/dsa_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Manacher
@@ -607,4 +610,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poorva77/dsa_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Poorva77/dsa_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
