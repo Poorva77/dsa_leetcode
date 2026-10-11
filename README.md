@@ -312,6 +312,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Poorva77/dsa_leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -569,6 +570,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Poorva77/dsa_leetcode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorva77/dsa_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Manacher
 |  |
