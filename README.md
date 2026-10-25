@@ -95,6 +95,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1927-sum-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poorva77/dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Poorva77/dsa_leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Poorva77/dsa_leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Poorva77/dsa_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Poorva77/dsa_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -174,6 +175,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1927-sum-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poorva77/dsa_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2409-count-days-spent-together](https://github.com/Poorva77/dsa_leetcode/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Poorva77/dsa_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
