@@ -73,6 +73,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Poorva77/dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poorva77/dsa_leetcode/tree/master/0204-count-primes) |
