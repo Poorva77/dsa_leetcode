@@ -6,7 +6,7 @@ public:
             unordered_set<int> st;
             for(int j=i;j<nums.size();j++){
                 st.insert(nums[j]);
-                int count=st.size();
+                int count=st.size();  //idhar hi count kra bcoz we have to take each element of subset also!
                 sum+=count*count;
             }
         }
