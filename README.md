@@ -668,4 +668,8 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Poorva77/dsa_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Poorva77/dsa_leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
