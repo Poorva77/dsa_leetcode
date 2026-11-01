@@ -20,6 +20,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0287-find-the-duplicate-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorva77/dsa_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Poorva77/dsa_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Poorva77/dsa_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -82,6 +83,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Poorva77/dsa_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/0728-self-dividing-numbers) |
