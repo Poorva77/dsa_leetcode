@@ -195,6 +195,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [1927-sum-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poorva77/dsa_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Poorva77/dsa_leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Poorva77/dsa_leetcode/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Poorva77/dsa_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -525,6 +526,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0415-add-strings](https://github.com/Poorva77/dsa_leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Poorva77/dsa_leetcode/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
