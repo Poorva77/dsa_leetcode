@@ -137,6 +137,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Poorva77/dsa_leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorva77/dsa_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Poorva77/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -174,6 +175,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0125-valid-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Poorva77/dsa_leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Poorva77/dsa_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -295,6 +297,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poorva77/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Poorva77/dsa_leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorva77/dsa_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0997-find-the-town-judge](https://github.com/Poorva77/dsa_leetcode/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Poorva77/dsa_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
