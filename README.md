@@ -171,6 +171,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Poorva77/dsa_leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/Poorva77/dsa_leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -364,6 +365,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Poorva77/dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0189-rotate-array) |
