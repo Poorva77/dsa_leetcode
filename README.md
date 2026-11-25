@@ -11,6 +11,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0035-search-insert-position](https://github.com/Poorva77/dsa_leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Poorva77/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poorva77/dsa_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Poorva77/dsa_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Poorva77/dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -138,6 +139,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Poorva77/dsa_leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Poorva77/dsa_leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorva77/dsa_leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -376,6 +378,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Poorva77/dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Poorva77/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Poorva77/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorva77/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
