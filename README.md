@@ -60,6 +60,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Poorva77/dsa_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Poorva77/dsa_leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Poorva77/dsa_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -322,6 +323,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poorva77/dsa_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Poorva77/dsa_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Poorva77/dsa_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -374,6 +376,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [0224-basic-calculator](https://github.com/Poorva77/dsa_leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Poorva77/dsa_leetcode/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poorva77/dsa_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -439,6 +442,7 @@ My daily coding submissions for the #teachersDayChallenge by vitb
 | [2778-sum-of-squares-of-special-elements](https://github.com/Poorva77/dsa_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Poorva77/dsa_leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Poorva77/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Poorva77/dsa_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Poorva77/dsa_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
